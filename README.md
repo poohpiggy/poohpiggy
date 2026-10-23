@@ -1,46 +1,56 @@
-![Hi, I'm poohpiggy. Electrical Engineering & Automation.](./assets/header.svg)
+<p align="center">
+  <img src="./assets/header.svg" alt="poohpiggy — Somewhere between code and circuitry." width="100%" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/poohpiggy"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-poohpiggy-182235?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
-  <a href="https://space.bilibili.com/403805887"><img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-poohpiggy-00A1D6?style=flat-square&amp;logo=bilibili&amp;logoColor=white" /></a>
+  <a href="https://github.com/poohpiggy?tab=repositories">Repositories</a> &nbsp; / &nbsp;
+  <a href="https://github.com/poohpiggy/poohpiggy.github.io">Personal site source</a> &nbsp; / &nbsp;
+  <a href="https://space.bilibili.com/403805887">Bilibili</a>
 </p>
 
-### 关于我 · About me
+<br />
 
-你好，我是 **poohpiggy**，武汉纺织大学电气工程及其自动化专业在读。
-喜欢折腾软件与硬件，也喜欢把日常使用中的小麻烦变成可以动手解决的问题。
+### A little context
 
-I'm an Electrical Engineering & Automation student at **Wuhan Textile University**, exploring the space where code meets hardware.
+I'm **poohpiggy**, an Electrical Engineering & Automation student at **Wuhan Textile University**. I tinker with software and hardware, explore how things work, and write small tools to make everyday devices a little better.
 
-- ⚡ **专业方向** · 电气工程与自动化
-- 🛠️ **折腾日常** · 软硬件设备、Windows 使用体验与实用脚本
-- 💻 **主要语言** · C / Python
-- 📺 **找到我** · [Bilibili 个人空间](https://space.bilibili.com/403805887)
+Most at home with **C** and **Python**. Also working with **PowerShell** when Windows needs a little persuasion.
 
-### 工具箱 · Toolbox
+<br />
 
-<p>
-  <img alt="C" src="https://img.shields.io/badge/C-28354A?style=flat-square&amp;logo=c&amp;logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-28354A?style=flat-square&amp;logo=python&amp;logoColor=FFD166" />
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-28354A?style=flat-square" />
-  <img alt="Windows 11" src="https://img.shields.io/badge/Windows_11-28354A?style=flat-square" />
-</p>
+### Selected work
 
-### 动手做的东西 · Projects
+<table>
+<tr>
+<td width="58%" valign="top">
+<sub>01 / DEVICE AUTOMATION</sub>
+<h3><a href="https://github.com/poohpiggy/AutoTouchPadCtrl">AutoTouchPadCtrl ↗</a></h3>
+<p>A small fix for a very real annoyance: accidental touchpad input on Windows Chromebooks. Automatically toggles the touchpad in convertible mode.</p>
+<sub>POWERSHELL · WINDOWS · CHROMEBOOK</sub>
+</td>
+<td width="42%" valign="top">
+<sub>02 / ON THE WEB</sub>
+<h3><a href="https://github.com/poohpiggy/poohpiggy.github.io">Personal site ↗</a></h3>
+<p>The source behind my corner of the web.</p>
+<sub>JAVASCRIPT · PERSONAL PROJECT</sub>
+</td>
+</tr>
+</table>
 
-| 项目 | 简介 |
-| :--- | :--- |
-| **[AutoTouchPadCtrl ↗](https://github.com/poohpiggy/AutoTouchPadCtrl)** | 为安装 Windows 的 Chromebook 编写的轻量脚本，在翻转模式下自动开关触控板，减少误触。 |
-| **[poohpiggy.github.io ↗](https://github.com/poohpiggy/poohpiggy.github.io)** | 我的个人站点仓库。 |
+<br />
 
 <details>
-<summary>也在关注的开源项目 · More to explore</summary>
+<summary>Elsewhere in the workshop</summary>
 
-- [MagiskOnWSALocal](https://github.com/poohpiggy/MagiskOnWSALocal) — WSA 相关项目的 Fork。
-- [seewoGeekWiki](https://github.com/poohpiggy/seewoGeekWiki) — 希沃相关 Wiki 的 Fork。
+A couple of upstream projects I keep forks of:
+
+- [MagiskOnWSALocal](https://github.com/poohpiggy/MagiskOnWSALocal) — Magisk and Google Apps for Windows Subsystem for Android.
+- [seewoGeekWiki](https://github.com/poohpiggy/seewoGeekWiki) — a community wiki around Seewo devices.
 
 </details>
 
+<br />
+
 ---
 
-<p align="center"><sub>保持好奇，动手验证。<br />Stay curious. Keep building.</sub></p>
+<p align="center"><sub>TAKE IT APART. FIGURE IT OUT. MAKE IT BETTER.</sub></p>
