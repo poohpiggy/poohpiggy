@@ -49,6 +49,19 @@ Mostly **C**, **Python**, and **PowerShell**. Lately, I've also been tinkering w
 <br />
 
 <details>
+<summary>My everyday setup</summary>
+
+| Device | What I use it for |
+| :--- | :--- |
+| **Main desktop** · Ryzen 7 9800X3D / RTX 3080 10GB / 32GB RAM | Development and running projects, mostly in WSL. |
+| **NAS / Minecraft server** · Core i5-14450HX / 32GB RAM | Hosting agents and bots, plus a Minecraft server. |
+| **ThinkPad L13 Gen 2** · Core i5-1135G7 / 16GB RAM | Testing on the go and remote access to my main desktop. |
+
+</details>
+
+<br />
+
+<details>
 <summary>Elsewhere in the workshop</summary>
 
 I also keep a fork of [seewoGeekWiki](https://github.com/poohpiggy/seewoGeekWiki), a community wiki around Seewo devices.
