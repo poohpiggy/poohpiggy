@@ -14,7 +14,7 @@
 
 I'm **poohpiggy**, an Electrical Engineering & Automation student at **Wuhan Textile University**. I like taking things apart, figuring out what went wrong, and making everyday devices work a little better.
 
-Mostly **C**, **Python**, and **PowerShell**. Lately, I've also been tinkering with Android virtual machines and writing down the fixes along the way.
+Mostly **C**, **Python**, and **PowerShell**. I recently wrapped up a round of HyperOS repairs for the AE virtual machine. The package and notes are now on GitHub.
 
 <br />
 
@@ -25,16 +25,16 @@ Mostly **C**, **Python**, and **PowerShell**. Lately, I've also been tinkering w
 <td colspan="2" valign="top">
 <sub>01 / ANDROID TINKERING</sub>
 <h3><a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair">HyperOS 4 for AE 0.0.0.3 ↗</a></h3>
-<p>Getting HyperOS 4 running inside AE: GLES rendering, the native launcher, audio, simulated calls and SMS, and app compatibility. Includes the debugging story, repair scripts, and an import package.</p>
-<p><a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair">Explore the project</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/blob/main/docs/troubleshooting.md">Debugging notes</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/releases/tag/hyperos4-ae0.0.0.3">Download</a></p>
-<sub>AE 0.0.0.3 · IMPORT TESTED ON K80 &amp; NEO11 · STILL A WORK IN PROGRESS</sub>
+<p>HyperOS 4 in AE, with the native launcher and GLES rendering. I worked through display issues, audio, simulated calls and SMS, browser crashes, and first-boot setup. The import package, scripts, and debugging notes are available.</p>
+<p><a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair">Explore the project</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/blob/main/docs/troubleshooting.md">Debugging notes</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/releases/tag/hyperos4-ae0.0.0.3">Download</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/blob/main/CHANGELOG.md">Changelog</a></p>
+<sub>AE 0.0.0.3 · PACKAGE RELEASED · TESTED ON K80 &amp; NEO11</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <sub>02 / DEVICE AUTOMATION</sub>
 <h3><a href="https://github.com/poohpiggy/AutoTouchPadCtrl">AutoTouchPadCtrl ↗</a></h3>
-<p>A lightweight PowerShell script that automatically toggles the touchpad in convertible mode on Windows Chromebooks.</p>
+<p>A small PowerShell tool for Windows Chromebooks. It turns the touchpad off in tablet mode and back on when needed. The fixes are complete.</p>
 <sub>POWERSHELL · WINDOWS · CHROMEBOOK</sub>
 </td>
 <td width="50%" valign="top">
