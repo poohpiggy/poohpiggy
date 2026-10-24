@@ -55,6 +55,7 @@ Mostly **C**, **Python**, and **PowerShell**. I recently wrapped up a round of H
 | :--- | :--- |
 | **Main desktop** · Ryzen 7 9800X3D / RTX 3080 10GB / 32GB RAM | Development and running projects, mostly in WSL. |
 | **NAS / Minecraft server** · Core i5-14450HX / 32GB RAM | Hosting agents and bots, plus a Minecraft server. |
+| **Redmi K80** · Snapdragon 8 Gen 3 / 16GB RAM / 512GB storage | Everyday phone and AE virtual machine testing. |
 | **ThinkPad L13 Gen 2** · Core i5-1135G7 / 16GB RAM | Testing on the go and remote access to my main desktop. |
 
 </details>
