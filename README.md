@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
+  <a href="https://poohpiggy.github.io/">Website</a> &nbsp; / &nbsp;
   <a href="https://github.com/poohpiggy?tab=repositories">Repositories</a> &nbsp; / &nbsp;
-  <a href="https://github.com/poohpiggy/poohpiggy.github.io">Personal site source</a> &nbsp; / &nbsp;
   <a href="https://space.bilibili.com/403805887">Bilibili</a>
 </p>
 
@@ -12,9 +12,9 @@
 
 ### A little context
 
-I'm **poohpiggy**, an Electrical Engineering & Automation student at **Wuhan Textile University**. I tinker with software and hardware, explore how things work, and write small tools to make everyday devices a little better.
+I'm **poohpiggy**, an Electrical Engineering & Automation student at **Wuhan Textile University**. I like taking things apart, figuring out what went wrong, and making everyday devices work a little better.
 
-Most at home with **C** and **Python**. Also working with **PowerShell** when Windows needs a little persuasion.
+Mostly **C**, **Python**, and **PowerShell**. Lately, I've also been tinkering with Android virtual machines and writing down the fixes along the way.
 
 <br />
 
@@ -22,17 +22,26 @@ Most at home with **C** and **Python**. Also working with **PowerShell** when Wi
 
 <table>
 <tr>
-<td width="58%" valign="top">
-<sub>01 / DEVICE AUTOMATION</sub>
+<td colspan="2" valign="top">
+<sub>01 / ANDROID TINKERING</sub>
+<h3><a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair">HyperOS 4 for AE 0.0.0.3 ↗</a></h3>
+<p>Getting HyperOS 4 running inside AE: GLES rendering, the native launcher, audio, simulated calls and SMS, and app compatibility. Includes the debugging story, repair scripts, and an import package.</p>
+<p><a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair">Explore the project</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/blob/main/docs/troubleshooting.md">Debugging notes</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/releases/tag/hyperos4-ae0.0.0.3">Download</a></p>
+<sub>AE 0.0.0.3 · IMPORT TESTED ON K80 &amp; NEO11 · STILL A WORK IN PROGRESS</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<sub>02 / DEVICE AUTOMATION</sub>
 <h3><a href="https://github.com/poohpiggy/AutoTouchPadCtrl">AutoTouchPadCtrl ↗</a></h3>
-<p>A small fix for a very real annoyance: accidental touchpad input on Windows Chromebooks. Automatically toggles the touchpad in convertible mode.</p>
+<p>A lightweight PowerShell script that automatically toggles the touchpad in convertible mode on Windows Chromebooks.</p>
 <sub>POWERSHELL · WINDOWS · CHROMEBOOK</sub>
 </td>
-<td width="42%" valign="top">
-<sub>02 / ON THE WEB</sub>
-<h3><a href="https://github.com/poohpiggy/poohpiggy.github.io">Personal site ↗</a></h3>
-<p>The source behind my corner of the web.</p>
-<sub>JAVASCRIPT · PERSONAL PROJECT</sub>
+<td width="50%" valign="top">
+<sub>03 / A SMALL GAME</sub>
+<h3><a href="https://poohpiggy.github.io/wtumc/">WTUMC ↗</a></h3>
+<p>A visual novel I made with Ren’Py. Play it right in your browser.</p>
+<sub>REN’PY · VISUAL NOVEL · BROWSER GAME</sub>
 </td>
 </tr>
 </table>
@@ -42,10 +51,7 @@ Most at home with **C** and **Python**. Also working with **PowerShell** when Wi
 <details>
 <summary>Elsewhere in the workshop</summary>
 
-A couple of upstream projects I keep forks of:
-
-- [MagiskOnWSALocal](https://github.com/poohpiggy/MagiskOnWSALocal) — Magisk and Google Apps for Windows Subsystem for Android.
-- [seewoGeekWiki](https://github.com/poohpiggy/seewoGeekWiki) — a community wiki around Seewo devices.
+I also keep a fork of [seewoGeekWiki](https://github.com/poohpiggy/seewoGeekWiki), a community wiki around Seewo devices.
 
 </details>
 
