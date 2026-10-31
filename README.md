@@ -14,7 +14,7 @@
 
 I'm **poohpiggy**, an Electrical Engineering & Automation student at **Wuhan Textile University**. I like taking things apart, figuring out what went wrong, and making everyday devices work a little better.
 
-Mostly **C**, **Python**, and **PowerShell**. I recently wrapped up a round of HyperOS repairs for the AE virtual machine. The package and notes are now on GitHub.
+Mostly **C**, **Python**, and **PowerShell**. I recently worked on HyperOS and HarmonyOS adaptations for the AE virtual machine. The packages and project notes are now on GitHub.
 
 <br />
 
@@ -31,14 +31,23 @@ Mostly **C**, **Python**, and **PowerShell**. I recently wrapped up a round of H
 </td>
 </tr>
 <tr>
+<td colspan="2" valign="top">
+<sub>02 / ANDROID TINKERING</sub>
+<h3><a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair">HarmonyOS 4 for AE 0.0.0.3 ↗</a></h3>
+<p>HarmonyOS 4 in AE, with the Starry Sky theme, a tailored two-page layout, and simulated calls and SMS. The package and adaptation source are available.</p>
+<p><a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair">Explore the project</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair/releases/tag/v1.1">Download</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair/blob/main/CHANGELOG.md">Changelog</a></p>
+<sub>AE 0.0.0.3 · PACKAGE RELEASED · CLEAN IMPORT CHECKED</sub>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<sub>02 / DEVICE AUTOMATION</sub>
+<sub>03 / DEVICE AUTOMATION</sub>
 <h3><a href="https://github.com/poohpiggy/AutoTouchPadCtrl">AutoTouchPadCtrl ↗</a></h3>
 <p>A small PowerShell tool for Windows Chromebooks. It turns the touchpad off in tablet mode and back on when needed. The fixes are complete.</p>
 <sub>POWERSHELL · WINDOWS · CHROMEBOOK</sub>
 </td>
 <td width="50%" valign="top">
-<sub>03 / A SMALL GAME</sub>
+<sub>04 / A SMALL GAME</sub>
 <h3><a href="https://poohpiggy.github.io/wtumc/">WTUMC ↗</a></h3>
 <p>A visual novel I made with Ren’Py. Play it right in your browser.</p>
 <sub>REN’PY · VISUAL NOVEL · BROWSER GAME</sub>
