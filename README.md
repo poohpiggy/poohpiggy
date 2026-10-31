@@ -24,19 +24,19 @@ Mostly **C**, **Python**, and **PowerShell**. I recently worked on HyperOS and H
 <tr>
 <td colspan="2" valign="top">
 <sub>01 / ANDROID TINKERING</sub>
-<h3><a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair">HyperOS 4 for AE 0.0.0.3 ↗</a></h3>
-<p>HyperOS 4 in AE, with the native launcher and GLES rendering. I worked through display issues, audio, simulated calls and SMS, browser crashes, and first-boot setup. The import package, scripts, and debugging notes are available.</p>
-<p><a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair">Explore the project</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/blob/main/docs/troubleshooting.md">Debugging notes</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/releases/tag/hyperos4-ae0.0.0.3">Download</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/blob/main/CHANGELOG.md">Changelog</a></p>
-<sub>AE 0.0.0.3 · PACKAGE RELEASED · TESTED ON K80 &amp; NEO11</sub>
+<h3><a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair">HarmonyOS 4 for AE 0.0.0.3 ↗</a></h3>
+<p>HarmonyOS 4 in AE, with the Starry Sky theme, a tailored two-page layout, and simulated calls and SMS. The package and adaptation source are available.</p>
+<p><a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair">Explore the project</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair/releases/tag/v1.1">Download</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair/blob/main/CHANGELOG.md">Changelog</a></p>
+<sub>AE 0.0.0.3 · PACKAGE RELEASED · CLEAN IMPORT CHECKED</sub>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 <sub>02 / ANDROID TINKERING</sub>
-<h3><a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair">HarmonyOS 4 for AE 0.0.0.3 ↗</a></h3>
-<p>HarmonyOS 4 in AE, with the Starry Sky theme, a tailored two-page layout, and simulated calls and SMS. The package and adaptation source are available.</p>
-<p><a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair">Explore the project</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair/releases/tag/v1.1">Download</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair/blob/main/CHANGELOG.md">Changelog</a></p>
-<sub>AE 0.0.0.3 · PACKAGE RELEASED · CLEAN IMPORT CHECKED</sub>
+<h3><a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair">HyperOS 4 for AE 0.0.0.3 ↗</a></h3>
+<p>HyperOS 4 in AE, with the native launcher and GLES rendering. I worked through display issues, audio, simulated calls and SMS, browser crashes, and first-boot setup. The import package, scripts, and debugging notes are available.</p>
+<p><a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair">Explore the project</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/blob/main/docs/troubleshooting.md">Debugging notes</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/releases/tag/hyperos4-ae0.0.0.3">Download</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/blob/main/CHANGELOG.md">Changelog</a></p>
+<sub>AE 0.0.0.3 · PACKAGE RELEASED · TESTED ON K80 &amp; NEO11</sub>
 </td>
 </tr>
 <tr>
