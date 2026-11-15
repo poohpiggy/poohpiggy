@@ -14,7 +14,7 @@
 
 I'm **poohpiggy**, an Electrical Engineering & Automation student at **Wuhan Textile University**. I like taking things apart, figuring out what went wrong, and making everyday devices work a little better.
 
-Mostly **C**, **Python**, and **PowerShell**. I recently worked on HyperOS and HarmonyOS adaptations for the AE virtual machine. The packages and project notes are now on GitHub.
+Mostly **C**, **Python**, and **PowerShell**. I maintain **RedMagicEMU**, an Android virtual-machine project focused on the REDMAGIC NX809J firmware, and have also worked on HyperOS and HarmonyOS adaptations for AE. Source, builds, and project notes are on GitHub.
 
 <br />
 
@@ -23,7 +23,16 @@ Mostly **C**, **Python**, and **PowerShell**. I recently worked on HyperOS and H
 <table>
 <tr>
 <td colspan="2" valign="top">
-<sub>01 / ANDROID TINKERING</sub>
+<sub>01 / ANDROID VIRTUALIZATION</sub>
+<h3><a href="https://github.com/poohpiggy/RedMagicEMU">RedMagicEMU ↗</a></h3>
+<p>An independently maintained Android VM project targeting the original REDMAGIC NX809J Android 16 / API 36 / ARM64 firmware. 0.6.0 brings a single release package, battery sync, sensor and GPS bridging, virtual Wi-Fi/LTE, and camera fixes, with the source and diagnostics kept public.</p>
+<p><a href="https://github.com/poohpiggy/RedMagicEMU">Explore the project</a> · <a href="https://github.com/poohpiggy/RedMagicEMU/releases/tag/0.6.0-beta">Download 0.6.0 Beta</a> · <a href="https://github.com/poohpiggy/RedMagicEMU/blob/0.6.0-beta/docs/COMPATIBILITY.md">Compatibility</a></p>
+<sub>REDMAGIC NX809J · ANDROID 16 / API 36 · 0.6.0 BETA RELEASED</sub>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<sub>02 / ANDROID TINKERING</sub>
 <h3><a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair">HarmonyOS 4 for AE 0.0.0.3 ↗</a></h3>
 <p>HarmonyOS 4 in AE, with the Starry Sky theme, a tailored two-page layout, and simulated calls and SMS. The package and adaptation source are available.</p>
 <p><a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair">Explore the project</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair/releases/tag/v1.1">Download</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair/blob/main/CHANGELOG.md">Changelog</a></p>
@@ -32,7 +41,7 @@ Mostly **C**, **Python**, and **PowerShell**. I recently worked on HyperOS and H
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<sub>02 / ANDROID TINKERING</sub>
+<sub>03 / ANDROID TINKERING</sub>
 <h3><a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair">HyperOS 4 for AE 0.0.0.3 ↗</a></h3>
 <p>HyperOS 4 in AE, with the native launcher and GLES rendering. I worked through display issues, audio, simulated calls and SMS, browser crashes, and first-boot setup. The import package, scripts, and debugging notes are available.</p>
 <p><a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair">Explore the project</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/blob/main/docs/troubleshooting.md">Debugging notes</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/releases/tag/hyperos4-ae0.0.0.3">Download</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/blob/main/CHANGELOG.md">Changelog</a></p>
@@ -41,13 +50,13 @@ Mostly **C**, **Python**, and **PowerShell**. I recently worked on HyperOS and H
 </tr>
 <tr>
 <td width="50%" valign="top">
-<sub>03 / DEVICE AUTOMATION</sub>
+<sub>04 / DEVICE AUTOMATION</sub>
 <h3><a href="https://github.com/poohpiggy/AutoTouchPadCtrl">AutoTouchPadCtrl ↗</a></h3>
 <p>A small PowerShell tool for Windows Chromebooks. It turns the touchpad off in tablet mode and back on when needed. The fixes are complete.</p>
 <sub>POWERSHELL · WINDOWS · CHROMEBOOK</sub>
 </td>
 <td width="50%" valign="top">
-<sub>04 / A SMALL GAME</sub>
+<sub>05 / A SMALL GAME</sub>
 <h3><a href="https://poohpiggy.github.io/wtumc/">WTUMC ↗</a></h3>
 <p>A visual novel I made with Ren’Py. Play it right in your browser.</p>
 <sub>REN’PY · VISUAL NOVEL · BROWSER GAME</sub>
