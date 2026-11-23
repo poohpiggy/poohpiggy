@@ -42,12 +42,12 @@ I'm <strong>poohpiggy</strong>, an Electrical Engineering &amp; Automation stude
 <table>
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair">HarmonyOS 4 for AE 0.0.0.3</a></h4>
+<p><strong><a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair">HarmonyOS 4 for AE 0.0.0.3</a></strong></p>
 <p>Starry Sky theme, a reworked home screen, and simulated calls and SMS.</p>
 <p><a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair/releases/tag/v1.1">Download</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair/blob/main/CHANGELOG.md">Changelog</a></p>
 </td>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair">HyperOS 4 for AE 0.0.0.3</a></h4>
+<p><strong><a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair">HyperOS 4 for AE 0.0.0.3</a></strong></p>
 <p>GLES rendering, launcher and audio fixes, and display scaling. Tested on K80 and Neo11.</p>
 <p><a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/releases/tag/hyperos4-ae0.0.0.3">Download</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/blob/main/docs/troubleshooting.md">Debugging notes</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/blob/main/CHANGELOG.md">Changelog</a></p>
 </td>
