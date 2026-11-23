@@ -14,7 +14,7 @@
 
 I'm **poohpiggy**, an Electrical Engineering & Automation student at **Wuhan Textile University**. I like taking things apart, figuring out what went wrong, and making everyday devices work a little better.
 
-Mostly **C**, **Python**, and **PowerShell**. I maintain **RedMagicEMU**, an Android virtual-machine project focused on the REDMAGIC NX809J firmware, and have also worked on HyperOS and HarmonyOS adaptations for AE. Source, builds, and project notes are on GitHub.
+Mostly **C**, **Python**, and **PowerShell**. I maintain **RedMagicEMU**, an Android virtual-machine project focused on the REDMAGIC NX809J firmware, and have also worked on HyperOS and HarmonyOS adaptations for AE.
 
 <br />
 
@@ -25,9 +25,9 @@ Mostly **C**, **Python**, and **PowerShell**. I maintain **RedMagicEMU**, an And
 <td colspan="2" valign="top">
 <sub>01 / ANDROID VIRTUALIZATION</sub>
 <h3><a href="https://github.com/poohpiggy/RedMagicEMU">RedMagicEMU ↗</a></h3>
-<p>An independently maintained Android VM project targeting the original REDMAGIC NX809J Android 16 / API 36 / ARM64 firmware. 0.6.0 brings a single release package, battery sync, sensor and GPS bridging, virtual Wi-Fi/LTE, and camera fixes, with the source and diagnostics kept public.</p>
-<p><a href="https://github.com/poohpiggy/RedMagicEMU">Explore the project</a> · <a href="https://github.com/poohpiggy/RedMagicEMU/releases/tag/0.6.0-beta">Download 0.6.0 Beta</a> · <a href="https://github.com/poohpiggy/RedMagicEMU/blob/0.6.0-beta/docs/COMPATIBILITY.md">Compatibility</a></p>
-<sub>REDMAGIC NX809J · ANDROID 16 / API 36 · 0.6.0 BETA RELEASED</sub>
+<p>Run the stock REDMAGIC NX809J Android 16 firmware on an Android device. This release adds optional Magisk Root in the Guest, improves host location sync and Vulkan compatibility, and fixes camera preview, photo orientation, and video aspect ratio.</p>
+<p><a href="https://github.com/poohpiggy/RedMagicEMU">Source</a> · <a href="https://github.com/poohpiggy/RedMagicEMU/releases/download/0.7.0-beta/RedMagicEMU-0.7.0-beta.apk">Download APK</a> · <a href="https://github.com/poohpiggy/RedMagicEMU/releases/tag/0.7.0-beta">Release notes</a> · <a href="https://github.com/poohpiggy/RedMagicEMU-NX809J-VM/releases/tag/11.0.21mr">Firmware</a></p>
+<sub>REDMAGIC NX809J · ANDROID 16 / API 36 · 0.7.0-beta</sub>
 </td>
 </tr>
 <tr>
