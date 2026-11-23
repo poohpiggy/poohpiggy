@@ -49,14 +49,22 @@ Mostly **C**, **Python**, and **PowerShell**. I maintain **RedMagicEMU**, an And
 </td>
 </tr>
 <tr>
+<td colspan="2" valign="top">
+<sub>04 / THINKPAD MAINTENANCE</sub>
+<h3><a href="https://github.com/poohpiggy/ThinkPad-Maintenance-Utilities-Kit">ThinkPad Maintenance Utilities Kit ↗</a></h3>
+<p>ThinkPad maintenance utilities for restoring machine information after a motherboard replacement, with a bilingual guide, EFI analysis notes, and a read-only Windows checker.</p>
+<sub>THINKPAD · EFI · WINDOWS</sub>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<sub>04 / DEVICE AUTOMATION</sub>
+<sub>05 / DEVICE AUTOMATION</sub>
 <h3><a href="https://github.com/poohpiggy/AutoTouchPadCtrl">AutoTouchPadCtrl ↗</a></h3>
 <p>A small PowerShell tool for Windows Chromebooks. It turns the touchpad off in tablet mode and back on when needed. The fixes are complete.</p>
 <sub>POWERSHELL · WINDOWS · CHROMEBOOK</sub>
 </td>
 <td width="50%" valign="top">
-<sub>05 / A SMALL GAME</sub>
+<sub>06 / A SMALL GAME</sub>
 <h3><a href="https://poohpiggy.github.io/wtumc/">WTUMC ↗</a></h3>
 <p>A visual novel I made with Ren’Py. Play it right in your browser.</p>
 <sub>REN’PY · VISUAL NOVEL · BROWSER GAME</sub>
