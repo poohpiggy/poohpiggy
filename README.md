@@ -9,6 +9,12 @@
   <a href="https://space.bilibili.com/403805887">Bilibili</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/poohpiggy?tab=repositories&amp;sort=stargazers">
+    <img src="https://img.shields.io/github/stars/poohpiggy?affiliations=OWNER&amp;style=for-the-badge&amp;logo=github&amp;label=Total%20stars&amp;labelColor=282038&amp;color=5342a3" alt="Total stars across my public GitHub repositories" height="28" />
+  </a>
+</p>
+
 <p><img align="right" src="https://avatars.githubusercontent.com/u/120317771?s=256" alt="poohpiggy's GitHub avatar" width="88" height="88" />
 I'm <strong>poohpiggy</strong>, an Electrical Engineering &amp; Automation student at Wuhan Textile University. I mostly work in C, Python and PowerShell. I like getting Android firmware to run in virtual machines and fixing things on the devices I use.</p>
 <br clear="right" />
