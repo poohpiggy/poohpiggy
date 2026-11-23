@@ -9,7 +9,9 @@
   <a href="https://space.bilibili.com/403805887">Bilibili</a>
 </p>
 
-I'm **poohpiggy**, an Electrical Engineering & Automation student at Wuhan Textile University. I mostly work in C, Python and PowerShell. I like getting Android firmware to run in virtual machines and fixing things on the devices I use.
+<p><img align="right" src="https://avatars.githubusercontent.com/u/120317771?s=256" alt="poohpiggy's GitHub avatar" width="88" height="88" />
+I'm <strong>poohpiggy</strong>, an Electrical Engineering &amp; Automation student at Wuhan Textile University. I mostly work in C, Python and PowerShell. I like getting Android firmware to run in virtual machines and fixing things on the devices I use.</p>
+<br clear="right" />
 
 ### What I'm working on
 
