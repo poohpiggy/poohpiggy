@@ -16,6 +16,9 @@
   <a href="https://github.com/poohpiggy?tab=repositories">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpoohpiggy&amp;query=%24.public_repos&amp;label=Public%20repos&amp;style=for-the-badge&amp;logo=github&amp;labelColor=282038&amp;color=5342a3" alt="Public repository count" height="28" />
   </a>
+  <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/releases">
+    <img src="https://img.shields.io/github/downloads/poohpiggy/AE0.0.0.3-HyperOS4-Repair/total?style=for-the-badge&amp;logo=github&amp;label=Most%20Downloads&amp;labelColor=282038&amp;color=5342a3" alt="Most downloads: HyperOS 4 for AE 0.0.0.3" height="28" />
+  </a>
 </p>
 
 <p align="center">
