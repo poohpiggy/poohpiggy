@@ -61,7 +61,7 @@ def update_badge(readme, repo):
         "logo": "github",
         "label": "Most Downloads",
         "labelColor": "282038",
-        "color": "5342a3",
+        "color": "65479e",
     })
     badge = f"https://img.shields.io/github/downloads/{quote(repo, safe='/')}/total?{params}"
     alt = "Most downloads: " + repo.split("/", 1)[1]

@@ -11,14 +11,14 @@
 
 <p align="center">
   <a href="https://github.com/poohpiggy?tab=repositories&amp;sort=stargazers">
-    <img src="https://img.shields.io/github/stars/poohpiggy?affiliations=OWNER&amp;style=for-the-badge&amp;logo=github&amp;label=Total%20stars&amp;labelColor=282038&amp;color=5342a3" alt="Total stars across my public GitHub repositories" height="28" />
+    <img src="https://img.shields.io/github/stars/poohpiggy?affiliations=OWNER&amp;style=for-the-badge&amp;logo=github&amp;label=Total%20stars&amp;labelColor=282038&amp;color=8d561d" alt="Total stars across my public GitHub repositories" height="28" />
   </a>
   <a href="https://github.com/poohpiggy?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpoohpiggy&amp;query=%24.public_repos&amp;label=Public%20repos&amp;style=for-the-badge&amp;logo=github&amp;labelColor=282038&amp;color=5342a3" alt="Public repository count" height="28" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpoohpiggy&amp;query=%24.public_repos&amp;label=Public%20repos&amp;style=for-the-badge&amp;logo=github&amp;labelColor=282038&amp;color=246158" alt="Public repository count" height="28" />
   </a>
   <!-- most-downloads:start -->
   <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/releases">
-    <img src="https://img.shields.io/github/downloads/poohpiggy/AE0.0.0.3-HyperOS4-Repair/total?style=for-the-badge&amp;logo=github&amp;label=Most+Downloads&amp;labelColor=282038&amp;color=5342a3" alt="Most downloads: AE0.0.0.3-HyperOS4-Repair" height="28" />
+    <img src="https://img.shields.io/github/downloads/poohpiggy/AE0.0.0.3-HyperOS4-Repair/total?style=for-the-badge&amp;logo=github&amp;label=Most+Downloads&amp;labelColor=282038&amp;color=65479e" alt="Most downloads: AE0.0.0.3-HyperOS4-Repair" height="28" />
   </a>
   <!-- most-downloads:end -->
 </p>
