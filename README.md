@@ -30,9 +30,7 @@
   <img src="https://img.shields.io/badge/PowerShell-5342a3?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZmZmZmZmIj48dGl0bGU%2BUG93ZXJTaGVsbDwvdGl0bGU%2BPHBhdGggZD0iTTIzLjE4MSAyLjk3NGMuNTY4IDAgLjkyMy40NjMuNzkyIDEuMDM1bC0zLjY1OSAxNS45ODJjLS4xMy41NzItLjY5NyAxLjAzNS0xLjI2NSAxLjAzNUguODE5Yy0uNTY4IDAtLjkyMy0uNDYzLS43OTItMS4wMzVMMy42ODYgNC4wMDljLjEzLS41NzIuNjk3LTEuMDM1IDEuMjY1LTEuMDM1em0tOC4zNzUgOS4zNDZjLjI1MS0uMzk0LjIyNy0uOTA1LS4wOS0xLjI0M0w5LjEyMiA1LjEyNWMtLjM4LS40MDQtMS4wMzctLjQwNy0xLjQ2Ni0uMDAzLS40MjkuNDAyLS40NjggMS4wNTYtLjA4OCAxLjQ2bDQuNjYyIDQuOTZ2LjExbC03LjQyIDUuMzc0Yy0uNDUuMzI3LS41MzMuOTc3LS4xODcgMS40NTMuMzQ2LjQ3Ni45OTEuNTk3IDEuNDQuMjdsOC4yMjktNS45MWMuMjgtLjE5Ni40MzgtLjM2NS41MTQtLjUyem0tMi43OTYgNC4zOTlhLjkyOC45MjggMCAwMC0uOTM0LjkyM2MwIC41MS40MTguOTIzLjkzNC45MjNoNC40MzNhLjkyOC45MjggMCAwMC45MzQtLjkyMy45MjguOTI4IDAgMDAtLjkzNC0uOTIzeiIgLz48L3N2Zz4%3D" alt="PowerShell" height="28" />
 </p>
 
-<p><img align="right" src="https://avatars.githubusercontent.com/u/120317771?s=256" alt="poohpiggy's GitHub avatar" width="88" height="88" />
-I'm <strong>poohpiggy</strong>, an Electrical Engineering &amp; Automation student at Wuhan Textile University. I mostly work in C, Python and PowerShell. I like getting Android firmware to run in virtual machines and fixing things on the devices I use.</p>
-<br clear="right" />
+<p>I'm <strong>poohpiggy</strong>, an Electrical Engineering &amp; Automation student at Wuhan Textile University. I mostly work in C, Python and PowerShell. I like getting Android firmware to run in virtual machines and fixing things on the devices I use.</p>
 
 ### What I'm working on
 
