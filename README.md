@@ -1,78 +1,44 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="poohpiggy — Somewhere between code and circuitry." width="100%" />
+  <img src="./assets/profile-banner.webp" alt="poohpiggy" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://poohpiggy.github.io/">Website</a> &nbsp; / &nbsp;
-  <a href="https://github.com/poohpiggy?tab=repositories">Repositories</a> &nbsp; / &nbsp;
+  <a href="https://poohpiggy.github.io/">中文主页</a> ·
+  <a href="https://poohpiggy.github.io/en.html">English site</a> ·
+  <a href="https://github.com/poohpiggy?tab=repositories">Repositories</a> ·
   <a href="https://space.bilibili.com/403805887">Bilibili</a>
 </p>
 
-<br />
+I'm **poohpiggy**, an Electrical Engineering & Automation student at Wuhan Textile University. I mostly work in C, Python and PowerShell. I like getting Android firmware to run in virtual machines and fixing things on the devices I use.
 
-### A little context
+### What I'm working on
 
-I'm **poohpiggy**, an Electrical Engineering & Automation student at **Wuhan Textile University**. I like taking things apart, figuring out what went wrong, and making everyday devices work a little better.
+**[RedMagicEMU](https://github.com/poohpiggy/RedMagicEMU)** runs stock REDMAGIC NX809J firmware inside Android. Lately I've been working on graphics, camera support, and compatibility between the guest and host.
 
-Mostly **C**, **Python**, and **PowerShell**. I maintain **RedMagicEMU**, an Android virtual-machine project focused on the REDMAGIC NX809J firmware, and have also worked on HyperOS and HarmonyOS adaptations for AE.
+[Download APK](https://github.com/poohpiggy/RedMagicEMU/releases/download/0.7.0-beta/RedMagicEMU-0.7.0-beta.apk) · [0.7.0-beta release notes](https://github.com/poohpiggy/RedMagicEMU/releases/tag/0.7.0-beta) · [Firmware](https://github.com/poohpiggy/RedMagicEMU-NX809J-VM/releases/tag/11.0.21mr)
 
-<br />
-
-### Selected work
+### ROMs adapted for AE
 
 <table>
 <tr>
-<td colspan="2" valign="top">
-<sub>01 / ANDROID VIRTUALIZATION</sub>
-<h3><a href="https://github.com/poohpiggy/RedMagicEMU">RedMagicEMU ↗</a></h3>
-<p>Run the stock REDMAGIC NX809J Android 16 firmware on an Android device. This release adds optional Magisk Root in the Guest, improves host location sync and Vulkan compatibility, and fixes camera preview, photo orientation, and video aspect ratio.</p>
-<p><a href="https://github.com/poohpiggy/RedMagicEMU">Source</a> · <a href="https://github.com/poohpiggy/RedMagicEMU/releases/download/0.7.0-beta/RedMagicEMU-0.7.0-beta.apk">Download APK</a> · <a href="https://github.com/poohpiggy/RedMagicEMU/releases/tag/0.7.0-beta">Release notes</a> · <a href="https://github.com/poohpiggy/RedMagicEMU-NX809J-VM/releases/tag/11.0.21mr">Firmware</a></p>
-<sub>REDMAGIC NX809J · ANDROID 16 / API 36 · 0.7.0-beta</sub>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-<sub>02 / ANDROID TINKERING</sub>
-<h3><a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair">HarmonyOS 4 for AE 0.0.0.3 ↗</a></h3>
-<p>HarmonyOS 4 in AE, with the Starry Sky theme, a tailored two-page layout, and simulated calls and SMS. The package and adaptation source are available.</p>
-<p><a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair">Explore the project</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair/releases/tag/v1.1">Download</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair/blob/main/CHANGELOG.md">Changelog</a></p>
-<sub>AE 0.0.0.3 · PACKAGE RELEASED · CLEAN IMPORT CHECKED</sub>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-<sub>03 / ANDROID TINKERING</sub>
-<h3><a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair">HyperOS 4 for AE 0.0.0.3 ↗</a></h3>
-<p>HyperOS 4 in AE, with the native launcher and GLES rendering. I worked through display issues, audio, simulated calls and SMS, browser crashes, and first-boot setup. The import package, scripts, and debugging notes are available.</p>
-<p><a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair">Explore the project</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/blob/main/docs/troubleshooting.md">Debugging notes</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/releases/tag/hyperos4-ae0.0.0.3">Download</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/blob/main/CHANGELOG.md">Changelog</a></p>
-<sub>AE 0.0.0.3 · PACKAGE RELEASED · TESTED ON K80 &amp; NEO11</sub>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-<sub>04 / THINKPAD MAINTENANCE</sub>
-<h3><a href="https://github.com/poohpiggy/ThinkPad-Maintenance-Utilities-Kit">ThinkPad Maintenance Utilities Kit ↗</a></h3>
-<p>ThinkPad maintenance utilities for restoring machine information after a motherboard replacement, with a bilingual guide, EFI analysis notes, and a read-only Windows checker.</p>
-<sub>THINKPAD · EFI · WINDOWS</sub>
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<sub>05 / DEVICE AUTOMATION</sub>
-<h3><a href="https://github.com/poohpiggy/AutoTouchPadCtrl">AutoTouchPadCtrl ↗</a></h3>
-<p>A small PowerShell tool for Windows Chromebooks. It turns the touchpad off in tablet mode and back on when needed. The fixes are complete.</p>
-<sub>POWERSHELL · WINDOWS · CHROMEBOOK</sub>
+<h4><a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair">HarmonyOS 4 for AE 0.0.0.3</a></h4>
+<p>Starry Sky theme, a reworked home screen, and simulated calls and SMS.</p>
+<p><a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair/releases/tag/v1.1">Download</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HarmonyOS4-Repair/blob/main/CHANGELOG.md">Changelog</a></p>
 </td>
 <td width="50%" valign="top">
-<sub>06 / A SMALL GAME</sub>
-<h3><a href="https://poohpiggy.github.io/wtumc/">WTUMC ↗</a></h3>
-<p>A visual novel I made with Ren’Py. Play it right in your browser.</p>
-<sub>REN’PY · VISUAL NOVEL · BROWSER GAME</sub>
+<h4><a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair">HyperOS 4 for AE 0.0.0.3</a></h4>
+<p>GLES rendering, launcher and audio fixes, and display scaling. Tested on K80 and Neo11.</p>
+<p><a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/releases/tag/hyperos4-ae0.0.0.3">Download</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/blob/main/docs/troubleshooting.md">Debugging notes</a> · <a href="https://github.com/poohpiggy/AE0.0.0.3-HyperOS4-Repair/blob/main/CHANGELOG.md">Changelog</a></p>
 </td>
 </tr>
 </table>
 
-<br />
+### Tools and a game
+
+- **[ThinkPad Maintenance Utilities Kit](https://github.com/poohpiggy/ThinkPad-Maintenance-Utilities-Kit)** — Maintenance utilities for a board replacement, a bilingual guide, EFI notes, and a read-only Windows checker.
+- **[AutoTouchPadCtrl](https://github.com/poohpiggy/AutoTouchPadCtrl)** — Turns off the touchpad when a Chromebook running Windows is folded into tablet mode.
+- **[WTUMC](https://poohpiggy.github.io/wtumc/)** — A small Ren’Py visual novel you can play in your browser.
 
 <details>
 <summary>My everyday setup</summary>
@@ -86,17 +52,4 @@ Mostly **C**, **Python**, and **PowerShell**. I maintain **RedMagicEMU**, an And
 
 </details>
 
-<br />
-
-<details>
-<summary>Elsewhere in the workshop</summary>
-
-I also keep a fork of [seewoGeekWiki](https://github.com/poohpiggy/seewoGeekWiki), a community wiki around Seewo devices.
-
-</details>
-
-<br />
-
----
-
-<p align="center"><sub>TAKE IT APART. FIGURE IT OUT. MAKE IT BETTER.</sub></p>
+I also keep a fork of [seewoGeekWiki](https://github.com/poohpiggy/seewoGeekWiki).
