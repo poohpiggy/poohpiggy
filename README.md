@@ -13,6 +13,18 @@
   <a href="https://github.com/poohpiggy?tab=repositories&amp;sort=stargazers">
     <img src="https://img.shields.io/github/stars/poohpiggy?affiliations=OWNER&amp;style=for-the-badge&amp;logo=github&amp;label=Total%20stars&amp;labelColor=282038&amp;color=5342a3" alt="Total stars across my public GitHub repositories" height="28" />
   </a>
+  <a href="https://github.com/poohpiggy?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpoohpiggy&amp;query=%24.public_repos&amp;label=Public%20repos&amp;style=for-the-badge&amp;logo=github&amp;labelColor=282038&amp;color=5342a3" alt="Public repository count" height="28" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows%2011-254a83?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZmZmZmZmIj48dGl0bGU%2BV2luZG93cyAxMTwvdGl0bGU%2BPHBhdGggZD0iTTAsMEgxMS4zNzdWMTEuMzcySDBaTTEyLjYyMywwSDI0VjExLjM3MkgxMi42MjNaTTAsMTIuNjIzSDExLjM3N1YyNEgwWm0xMi42MjMsMEgyNFYyNEgxMi42MjMiIC8%2BPC9zdmc%2B" alt="Windows 11" height="28" />
+  <img src="https://img.shields.io/badge/WSL-282038?style=for-the-badge&amp;logo=linux&amp;logoColor=white" alt="WSL" height="28" />
+  <img src="https://img.shields.io/badge/Android-27634c?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Android" height="28" />
+  <img src="https://img.shields.io/badge/C-3c4e7e?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C" height="28" />
+  <img src="https://img.shields.io/badge/Python-254a83?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" height="28" />
+  <img src="https://img.shields.io/badge/PowerShell-5342a3?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZmZmZmZmIj48dGl0bGU%2BUG93ZXJTaGVsbDwvdGl0bGU%2BPHBhdGggZD0iTTIzLjE4MSAyLjk3NGMuNTY4IDAgLjkyMy40NjMuNzkyIDEuMDM1bC0zLjY1OSAxNS45ODJjLS4xMy41NzItLjY5NyAxLjAzNS0xLjI2NSAxLjAzNUguODE5Yy0uNTY4IDAtLjkyMy0uNDYzLS43OTItMS4wMzVMMy42ODYgNC4wMDljLjEzLS41NzIuNjk3LTEuMDM1IDEuMjY1LTEuMDM1em0tOC4zNzUgOS4zNDZjLjI1MS0uMzk0LjIyNy0uOTA1LS4wOS0xLjI0M0w5LjEyMiA1LjEyNWMtLjM4LS40MDQtMS4wMzctLjQwNy0xLjQ2Ni0uMDAzLS40MjkuNDAyLS40NjggMS4wNTYtLjA4OCAxLjQ2bDQuNjYyIDQuOTZ2LjExbC03LjQyIDUuMzc0Yy0uNDUuMzI3LS41MzMuOTc3LS4xODcgMS40NTMuMzQ2LjQ3Ni45OTEuNTk3IDEuNDQuMjdsOC4yMjktNS45MWMuMjgtLjE5Ni40MzgtLjM2NS41MTQtLjUyem0tMi43OTYgNC4zOTlhLjkyOC45MjggMCAwMC0uOTM0LjkyM2MwIC41MS40MTguOTIzLjkzNC45MjNoNC40MzNhLjkyOC45MjggMCAwMC45MzQtLjkyMy45MjguOTI4IDAgMDAtLjkzNC0uOTIzeiIgLz48L3N2Zz4%3D" alt="PowerShell" height="28" />
 </p>
 
 <p><img align="right" src="https://avatars.githubusercontent.com/u/120317771?s=256" alt="poohpiggy's GitHub avatar" width="88" height="88" />
